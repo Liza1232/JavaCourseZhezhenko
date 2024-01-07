@@ -1,5 +1,5 @@
 # Репозиторій лабораторних робіт по Java.
-## [Лабораторна робота №1]()
-## [Лабораторна робота №2]()
-## [Лабораторна робота №3]()
-## [Лабораторна робота №4]()
+## [Лабораторна робота №1](https://github.com/Liza1232/JavacourseZhezhenko/blob/main/src/main/java/com/university/lab_1/README.md)
+## [Лабораторна робота №2](https://github.com/Liza1232/JavacourseZhezhenko/blob/main/src/main/java/com/university/lab_2/README.md)
+## [Лабораторна робота №3](https://github.com/Liza1232/JavacourseZhezhenko/blob/main/src/main/java/com/university/lab_3/README.md)
+## [Лабораторна робота №4](https://github.com/Liza1232/JavacourseZhezhenko/blob/main/src/main/java/com/university/lab_4/README.md)
